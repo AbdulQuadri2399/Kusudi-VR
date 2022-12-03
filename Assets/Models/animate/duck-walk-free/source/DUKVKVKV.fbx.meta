@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 9d4f482938e6c4b4d9419b1c4638369c
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 8726735939462556036
+    second: Object_10|Duck_Male_Idle_Bip01
+  - first:
+      74: 2984802974805382702
+    second: Object_10|Duck_Male_Idle_Bip01_Footsteps
+  - first:
+      74: 2305660229178409134
+    second: Object_10|Duck_Male_Idle_Bip01_HeadNub
+  - first:
+      74: -490042331994456670
+    second: Object_10|Duck_Male_Idle_Bip01_L_Toe0Nub
+  - first:
+      74: -6740172775302015890
+    second: Object_10|Duck_Male_Idle_Bip01_L_Toe1Nub
+  - first:
+      74: -4215847188072234454
+    second: Object_10|Duck_Male_Idle_Bip01_L_Toe2Nub
+  - first:
+      74: 7079062657553156849
+    second: Object_10|Duck_Male_Idle_Bip01_R_Toe0Nub
+  - first:
+      74: 2734228967767104241
+    second: Object_10|Duck_Male_Idle_Bip01_R_Toe1Nub
+  - first:
+      74: -557285143933249182
+    second: Object_10|Duck_Male_Idle_Bip01_R_Toe2Nub
+  - first:
+      74: -4957807366952968321
+    second: Object_10|Duck_Male_Idle_Bip01_TailNub
+  - first:
+      74: -6048454046787905542
+    second: Object_10|Duck_Male_Idle_Bone02
+  - first:
+      74: 5358417562007920363
+    second: Object_10|Duck_Male_Idle_Object_10
+  - first:
+      74: -287139742576400235
+    second: Object_10|Duck_Male_Walk0_Bip01
+  - first:
+      74: 4133025436032077183
+    second: Object_10|Duck_Male_Walk0_Bip01_Footsteps
+  - first:
+      74: 3271887015468328086
+    second: Object_10|Duck_Male_Walk0_Bip01_HeadNub
+  - first:
+      74: -1567983229752003529
+    second: Object_10|Duck_Male_Walk0_Bip01_L_Toe0Nub
+  - first:
+      74: -683507556732712661
+    second: Object_10|Duck_Male_Walk0_Bip01_L_Toe1Nub
+  - first:
+      74: 6374140723068981713
+    second: Object_10|Duck_Male_Walk0_Bip01_L_Toe2Nub
+  - first:
+      74: -7089935982428310268
+    second: Object_10|Duck_Male_Walk0_Bip01_R_Toe0Nub
+  - first:
+      74: 8439660849614145134
+    second: Object_10|Duck_Male_Walk0_Bip01_R_Toe1Nub
+  - first:
+      74: -4819439399728032676
+    second: Object_10|Duck_Male_Walk0_Bip01_R_Toe2Nub
+  - first:
+      74: 5813380146874445037
+    second: Object_10|Duck_Male_Walk0_Bip01_TailNub
+  - first:
+      74: -6591024739844590282
+    second: Object_10|Duck_Male_Walk0_Bone02
+  - first:
+      74: -1350150658181701090
+    second: Object_10|Duck_Male_Walk0_Object_10
+  - first:
+      74: 3255199761254553628
+    second: Object_10|Duck_Male_Walk_Bip01
+  - first:
+      74: 3751191919971103585
+    second: Object_10|Duck_Male_Walk_Bip01_Footsteps
+  - first:
+      74: -7361819105491935424
+    second: Object_10|Duck_Male_Walk_Bip01_HeadNub
+  - first:
+      74: 6989628887407849872
+    second: Object_10|Duck_Male_Walk_Bip01_L_Toe0Nub
+  - first:
+      74: -4934074550466675347
+    second: Object_10|Duck_Male_Walk_Bip01_L_Toe1Nub
+  - first:
+      74: 576089683063501965
+    second: Object_10|Duck_Male_Walk_Bip01_L_Toe2Nub
+  - first:
+      74: -5331956651171966662
+    second: Object_10|Duck_Male_Walk_Bip01_R_Toe0Nub
+  - first:
+      74: 7030239098152155797
+    second: Object_10|Duck_Male_Walk_Bip01_R_Toe1Nub
+  - first:
+      74: 1486732524450399164
+    second: Object_10|Duck_Male_Walk_Bip01_R_Toe2Nub
+  - first:
+      74: -8078641743291346707
+    second: Object_10|Duck_Male_Walk_Bip01_TailNub
+  - first:
+      74: -6494311398346483272
+    second: Object_10|Duck_Male_Walk_Bone02
+  - first:
+      74: -4469365035462327271
+    second: Object_10|Duck_Male_Walk_Object_10
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
